@@ -1,5 +1,6 @@
 import 'package:assignment_day9/features/home/home_screen.dart';
 import 'package:assignment_day9/features/home/views/mobile/detail_screen.dart';
+import 'package:assignment_day9/features/home/views/mobile/forecast_screen_mobile.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
       initialRoute: "/",
       routes: {
         "/": (context) => HomeScreen(),
-        "/forecast": (context) => ForecastScreen(),
+        "/forecast": (context) => ForecastScreenMobile(),
       },
       onGenerateRoute: (settings) {
         if (settings.name == "/detail") {
