@@ -65,7 +65,7 @@ class TabletLayout extends StatelessWidget {
                     icon: FaIcon(FontAwesomeIcons.cloudRain),
                     namaKota: "Raja Ampat",
                     suhu: 20,
-                    color: AppColor.fontColorSecondary,
+                    color: AppColor.fontColorSecondary, //comment
                     onTap: () {},
                   ),
                 ),
