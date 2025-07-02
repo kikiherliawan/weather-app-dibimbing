@@ -1,7 +1,6 @@
 import 'package:assignment_day9/features/home/views/mobile/forecast_screen_mobile.dart';
+import 'package:assignment_day9/features/home/views/tablet/forecast_screen_tablet.dart';
 import 'package:flutter/material.dart';
-import 'package:your_app/ui/screens/forecast_mobile.dart';
-import 'package:your_app/ui/screens/forecast_tablet.dart';
 
 class ForecastScreen extends StatelessWidget {
   const ForecastScreen({super.key});
