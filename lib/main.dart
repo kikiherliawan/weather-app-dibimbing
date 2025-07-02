@@ -1,6 +1,5 @@
 import 'package:assignment_day9/features/home/home_screen.dart';
 import 'package:assignment_day9/features/home/views/mobile/detail_screen.dart';
-import 'package:assignment_day9/features/home/views/mobile/forecast_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
