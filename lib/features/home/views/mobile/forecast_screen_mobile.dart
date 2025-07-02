@@ -1,11 +1,11 @@
 import 'package:assignment_day9/core/components/drawer.dart';
-import 'package:assignment_day9/core/components/forecast_card_mobile.dart';
+import 'package:assignment_day9/features/home/views/mobile/forecast_card_mobile.dart';
 import 'package:assignment_day9/core/constants/app_color.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-class ForecastScreen extends StatelessWidget {
-  const ForecastScreen({super.key});
+class ForecastScreenMobile extends StatelessWidget {
+  const ForecastScreenMobile({super.key});
 
   @override
   Widget build(BuildContext context) {
