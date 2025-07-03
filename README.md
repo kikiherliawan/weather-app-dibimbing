@@ -1,16 +1,6 @@
-# assignment_day9
+Assignmrnt Day 13 Dibimbing
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pandangan dalam penggunaaan git pada saat develop project yaitu:
+1. GitHub sangat membantu dalam tracking tiap fitur saat melakukan develop sebuah project.
+2. Pull Request dapat jadi tempat review sebelum merge, menjadi tahu apakah setiap branch saat ingin di merge ke main itu crash atau tidak.
+3. Branching membuat kerja lebih terstruktur.
